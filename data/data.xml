@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item>
+    <category>cooking</category>
+    <name>Canned Soup</name>
+    <quantity>6</quantity>
+    <idno>22</idno>
+    <date>2012-06-29</date>
+    <comments>You got to eat, right? :)</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>firstaid</category>
+    <name>Bar of Soap</name>
+    <quantity>2</quantity>
+    <idno>21</idno>
+    <date>2012-06-28</date>
+    <comments>Got to stay clean</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>cooking</category>
+    <name>Knife</name>
+    <quantity>1</quantity>
+    <idno>20</idno>
+    <date>2012-06-27</date>
+    <comments>Prepare the food</comments>
+    <important>false</important>
+  </item>
+  <item>
+    <category>firstaid</category>
+    <name>Tweezers</name>
+    <quantity>1</quantity>
+    <idno>19</idno>
+    <date>2012-06-26</date>
+    <comments>For handling</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>clothing</category>
+    <name>Belts</name>
+    <quantity>2</quantity>
+    <idno>18</idno>
+    <date>2012-06-25</date>
+    <comments>Hold the pants tight</comments>
+    <important>false</important>
+  </item>
+  <item>
+    <category>cooking</category>
+    <name>Towels</name>
+    <quantity>2</quantity>
+    <idno>17</idno>
+    <date>2012-06-24</date>
+    <comments>No dirty hands!</comments>
+    <important>false</important>
+  </item>
+  <item>
+    <category>shelter</category>
+    <name>Tent</name>
+    <quantity>1</quantity>
+    <idno>0</idno>
+    <date>2012-06-23</date>
+    <comments>A Big Enough One</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>bedding</category>
+    <name>Sleeping Bag</name>
+    <quantity>1</quantity>
+    <idno>1</idno>
+    <date>2012-06-23</date>
+    <comments>A Big Enough One</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>cooking</category>
+    <name>Oven</name>
+    <quantity>1</quantity>
+    <idno>2</idno>
+    <date>2012-06-23</date>
+    <comments>Oven Fun!</comments>
+    <important>false</important>
+  </item>
+  <item>
+    <category>clothing</category>
+    <name>Boots</name>
+    <quantity>2</quantity>
+    <idno>3</idno>
+    <date>2012-06-23</date>
+    <comments>For the odd hiking mood</comments>
+    <important>false</important>
+  </item>
+  <item>
+    <category>firstaid</category>
+    <name>Bandages</name>
+    <quantity>10</quantity>
+    <idno>4</idno>
+    <date>2012-06-23</date>
+    <comments>10 should be enough</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>shelter</category>
+    <name>Mat</name>
+    <quantity>2</quantity>
+    <idno>5</idno>
+    <date>2012-06-23</date>
+    <comments>Two should be enough</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>bedding</category>
+    <name>Sheets</name>
+    <quantity>2</quantity>
+    <idno>6</idno>
+    <date>2012-06-23</date>
+    <comments>Two for two mats :)</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>cooking</category>
+    <name>Can Opener</name>
+    <quantity>1</quantity>
+    <idno>7</idno>
+    <date>2012-06-23</date>
+    <comments>For the bottles!</comments>
+    <important>false</important>
+  </item>
+  <item>
+    <category>clothing</category>
+    <name>Pants</name>
+    <quantity>2</quantity>
+    <idno>8</idno>
+    <date>2012-06-23</date>
+    <comments>Blue and black</comments>
+    <important>false</important>
+  </item>
+  <item>
+    <category>firstaid</category>
+    <name>Antiseptic</name>
+    <quantity>1</quantity>
+    <idno>9</idno>
+    <date>2012-06-23</date>
+    <comments>For cuts and wounds</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>shelter</category>
+    <name>Ground Tarp</name>
+    <quantity>1</quantity>
+    <idno>10</idno>
+    <date>2012-06-23</date>
+    <comments>A big enough one</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>bedding</category>
+    <name>Blankets</name>
+    <quantity>2</quantity>
+    <idno>11</idno>
+    <date>2012-06-23</date>
+    <comments>Two for us again :)</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>cooking</category>
+    <name>Dish Pan</name>
+    <quantity>1</quantity>
+    <idno>12</idno>
+    <date>2012-06-23</date>
+    <comments>Frying!</comments>
+    <important>false</important>
+  </item>
+  <item>
+    <category>clothing</category>
+    <name>Shirt</name>
+    <quantity>2</quantity>
+    <idno>13</idno>
+    <date>2012-06-23</date>
+    <comments>Light colored shirts</comments>
+    <important>false</important>
+  </item>
+  <item>
+    <category>firstaid</category>
+    <name>Cotton</name>
+    <quantity>1</quantity>
+    <idno>14</idno>
+    <date>2012-06-23</date>
+    <comments>A roll should be enough</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>shelter</category>
+    <name>Shade</name>
+    <quantity>1</quantity>
+    <idno>15</idno>
+    <date>2012-06-23</date>
+    <comments>A big enough one</comments>
+    <important>true</important>
+  </item>
+  <item>
+    <category>bedding</category>
+    <name>Pillows</name>
+    <quantity>2</quantity>
+    <idno>16</idno>
+    <date>2012-06-23</date>
+    <comments>Two for us lol:)</comments>
+    <important>true</important>
+  </item>
+</items>
